@@ -1,0 +1,5 @@
+function getDate()
+{
+  return "%player_first_join_date%".split(" ")[0];
+}
+getDate();
